@@ -3,7 +3,7 @@
 ## Cell and Molecular Biology Laboratory ##
 
 **Name:** Cadungog, Ella Pearl V.  
-**Section:** A
+**Section:**     A
 **Selected Gene:** IDUA  
 **Enzyme:** Alpha-L-iduronidase  
 **Organism:** *Homo sapiens*
