@@ -74,9 +74,17 @@ The IDUA protein sequence was examined for potential N-glycosylation motifs usin
 
 **Table 4. Potential N-Glycosylation Motifs in the Human IDUA Protein**
 
-The exact number, positions, and sequences of the potential N-glycosylation motifs are determined by R and saved in `idua_nglycosylation_motifs.csv`.
+| Amino Acid Position | Motif |
+|---:|:---:|
+| 110 | NFT |
+| 190 | NVS |
+| 336 | NTT |
+| 372 | NNT |
+| 415 | NHT |
+| 451 | NRS |
 
-Previous structural research identified six N-linked glycosylation sites in human IDUA at asparagine residues 110, 190, 336, 372, 415, and 451 (Maita et al., 2013). These experimentally studied sites provide reference points for interpreting the sequence analysis. However, the number of sequence motifs detected by R may differ from the number of sites confirmed to carry glycans.
+Table 4 presents the six potential N-glycosylation motifs identified in the human IDUA protein sequence. The motifs were located at amino acid positions 110, 190, 336, 372, 415, and 451. All six follow the N-X-S/T pattern, where X represents any standard amino acid except proline. These results identify potential sites for N-linked glycosylation, although sequence motifs alone do not confirm actual glycan attachment.
+
 
 
 
