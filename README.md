@@ -4,7 +4,6 @@
 
 **Name:** Cadungog, Ella Pearl V.  
 **Section:** A
-
 **Selected Gene:** IDUA  
 **Enzyme:** Alpha-L-iduronidase  
 **Organism:** *Homo sapiens*
