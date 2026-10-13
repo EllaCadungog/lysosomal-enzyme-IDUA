@@ -53,6 +53,8 @@ The five most abundant amino acids, their counts, and percentages are generated 
 
 Table 3 identifies the five most frequently occurring amino acids in the human IDUA protein. The percentage of each amino acid is calculated by dividing its count by the total number of amino acids and multiplying by 100. These results describe the distribution of amino acid residues in the 653-amino-acid sequence.
 
+* [View Figure 1 (Amino Acid Composition)](figures/figure1_idua_amino_acid_composition.png)
+* 
 **Figure 1. Amino Acid Composition of the Human IDUA Protein**
 
 Figure 1 presents a bar graph showing the distribution of the 20 standard amino acids in the human IDUA protein. The x-axis represents amino acids using their one-letter codes, while the y-axis shows the number of residues.
