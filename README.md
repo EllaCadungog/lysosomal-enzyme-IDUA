@@ -54,7 +54,7 @@ The five most abundant amino acids, their counts, and percentages are generated 
 Table 3 identifies the five most frequently occurring amino acids in the human IDUA protein. The percentage of each amino acid is calculated by dividing its count by the total number of amino acids and multiplying by 100. These results describe the distribution of amino acid residues in the 653-amino-acid sequence.
 
 * [View Figure 1 (Amino Acid Composition)](figures/figure1_idua_amino_acid_composition.png)
-* 
+  
 **Figure 1. Amino Acid Composition of the Human IDUA Protein**
 
 Figure 1 presents a bar graph showing the distribution of the 20 standard amino acids in the human IDUA protein. The x-axis represents amino acids using their one-letter codes, while the y-axis shows the number of residues.
@@ -71,7 +71,8 @@ The exact number, positions, and sequences of the potential N-glycosylation moti
 
 Previous structural research identified six N-linked glycosylation sites in human IDUA at asparagine residues 110, 190, 336, 372, 415, and 451 (Maita et al., 2013). These experimentally studied sites provide reference points for interpreting the sequence analysis. However, the number of sequence motifs detected by R may differ from the number of sites confirmed to carry glycans.
 
-**Figure 2. Distribution of Potential N-Glycosylation Motifs in IDUA**
+
+* [View Figure 2 (N-Glycosylation Motifs)](figures/figure2_idua_nglycosylation_motifs.png)
 
 Figure 2 illustrates the distribution of potential N-glycosylation motifs along the 653-amino-acid IDUA protein sequence. A horizontal line represents the protein sequence, while markers indicate the starting positions of the detected motifs.
 
